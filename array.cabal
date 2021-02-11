@@ -7,7 +7,7 @@ cabal-version: 1.12
 -- hash: 3d0e083354af6b21fe7bad5e4e69c36191cf253c527a38852517d4ae365acfca
 
 name:           array
-version:        0.5.3.9
+version:        0.5.4.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/array#readme>
 homepage:       https://github.com/githubuser/array#readme
 bug-reports:    https://github.com/githubuser/array/issues
